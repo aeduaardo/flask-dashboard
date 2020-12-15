@@ -1,6 +1,6 @@
 
 ## About project 📋
-This API is one of the projects developed during the Python For SysAdmins course, offered by the company 4linux.
+This application is one of the projects developed during the Python For SysAdmins course, offered by the company 4linux.
 
 ## Technologies 🛸
 * [**Python 3.6.x**](https://www.python.org/) 🐍
